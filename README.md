@@ -1,2 +1,8 @@
-# kriyacrend-yahoo.com
+# PBKK - Ujian Tengah Semester 26 Maret 2020
 UTS PBKK
+
+NAMA: KRISNA BADRU WIJAYA
+
+NRP: 05111740000048
+
+KELAS: PBKK-B
